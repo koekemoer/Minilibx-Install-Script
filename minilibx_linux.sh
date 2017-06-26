@@ -9,6 +9,6 @@ fi
 
 git clone https://github.com/abouvier/minilibx.git
 
-sudo make DESTDIR=/usr/local install
+sudo make DESTDIR=/usr/local -C ./minilibx/install
 
 echo "Successfully install Minilibx"
