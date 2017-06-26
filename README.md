@@ -6,6 +6,12 @@ This is a small install script for Linux users.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
+### Run
+
+```
+bash minilibx_linux.sh 
+```
+
 ### Installing
 
 This script was intended for Ubuntu 16.04 users. Different versions of Linux may be incompatible.
